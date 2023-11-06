@@ -15,7 +15,7 @@ import java.util.List;
 
 @Service
 public class EazyBankUserDetails implements UserDetailsService {
-    CustomerRepository customerRepository;
+    private final CustomerRepository customerRepository;
 
     public EazyBankUserDetails(CustomerRepository customerRepository) {
         this.customerRepository = customerRepository;
