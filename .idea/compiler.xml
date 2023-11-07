@@ -9,6 +9,7 @@
         <module name="springsecurity2" />
         <module name="springsecurity3" />
         <module name="springsecuritybasic" />
+        <module name="springsecurity4" />
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel>
@@ -20,6 +21,7 @@
     <option name="ADDITIONAL_OPTIONS_OVERRIDE">
       <module name="springsecurity2" options="-parameters" />
       <module name="springsecurity3" options="-parameters" />
+      <module name="springsecurity4" options="-parameters" />
       <module name="springsecuritybasic" options="-parameters" />
       <module name="springsecuritybasic (1)" options="-parameters" />
       <module name="springsecuritybasic (2)" options="-parameters" />
