@@ -8,13 +8,14 @@
         <outputRelativeToContentRoot value="true" />
         <module name="springsecurity2" />
         <module name="springsecurity3" />
-        <module name="springsecurity" />
         <module name="springsecuritybasic" />
         <module name="springsecurity4" />
         <module name="springsecurity5" />
+        <module name="springsecurity6" />
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel>
+      <module name="springsecurity" target="17" />
       <module name="springsecuritybasic (1)" target="17" />
       <module name="springsecuritybasic (2)" target="17" />
     </bytecodeTargetLevel>
@@ -26,6 +27,7 @@
       <module name="springsecurity3" options="-parameters" />
       <module name="springsecurity4" options="-parameters" />
       <module name="springsecurity5" options="-parameters" />
+      <module name="springsecurity6" options="-parameters" />
       <module name="springsecuritybasic" options="-parameters" />
       <module name="springsecuritybasic (1)" options="-parameters" />
       <module name="springsecuritybasic (2)" options="-parameters" />
