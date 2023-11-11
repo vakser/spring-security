@@ -10,6 +10,7 @@
         <module name="springsecurity5" />
         <module name="springsecurity6" />
         <module name="springsecurity7" />
+        <module name="springsecurity8" />
         <module name="springsecurity2" />
         <module name="springsecurity3" />
         <module name="springsecurity4" />
@@ -30,6 +31,7 @@
       <module name="springsecurity5" options="-parameters" />
       <module name="springsecurity6" options="-parameters" />
       <module name="springsecurity7" options="-parameters" />
+      <module name="springsecurity8" options="-parameters" />
       <module name="springsecuritybasic" options="-parameters" />
       <module name="springsecuritybasic (1)" options="-parameters" />
       <module name="springsecuritybasic (2)" options="-parameters" />
