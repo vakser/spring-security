@@ -16,11 +16,13 @@
         <module name="springsecurity3" />
         <module name="springsecurity4" />
         <module name="springsecurity10" />
+        <module name="springsecOAUTH2GitHub" />
       </profile>
     </annotationProcessing>
   </component>
   <component name="JavacSettings">
     <option name="ADDITIONAL_OPTIONS_OVERRIDE">
+      <module name="springsecOAUTH2GitHub" options="-parameters" />
       <module name="springsecurity10" options="-parameters" />
       <module name="springsecurity2" options="-parameters" />
       <module name="springsecurity3" options="-parameters" />
