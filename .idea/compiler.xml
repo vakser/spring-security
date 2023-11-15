@@ -15,6 +15,7 @@
         <module name="springsecurity2" />
         <module name="springsecurity3" />
         <module name="springsecurity4" />
+        <module name="springsecurity11" />
         <module name="springsecurity10" />
         <module name="springsecOAUTH2GitHub" />
       </profile>
@@ -24,6 +25,7 @@
     <option name="ADDITIONAL_OPTIONS_OVERRIDE">
       <module name="springsecOAUTH2GitHub" options="-parameters" />
       <module name="springsecurity10" options="-parameters" />
+      <module name="springsecurity11" options="-parameters" />
       <module name="springsecurity2" options="-parameters" />
       <module name="springsecurity3" options="-parameters" />
       <module name="springsecurity4" options="-parameters" />
